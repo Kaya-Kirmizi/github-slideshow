@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-ok so i should write something here?
+ok so _now_ is it ok?
 Use the left arrow to go back!
